@@ -16,7 +16,7 @@ The main objectives of this project were:
 ## Methodology
 
 1. **Data Collection and Preprocessing**:
-   - Obtained a dataset of movie ratings from a popular platform (e.g., MovieLens, IMDB).
+   - Obtained a dataset of movie ratings from a popular platform (I used ALX Kaggle Compettion Data Set).
    - Cleaned and transformed the data, handling missing values and outliers as needed.
    - Performed exploratory data analysis to gain insights into the dataset.
 
